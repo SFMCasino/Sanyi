@@ -20,6 +20,8 @@ public class Application {
         teszt1.setEmail("teszt@elek.hu");
         teszt1.setCreditCardNumber("0000 1111 2222 3333");
         teszt1.setPassword("12345");
+        teszt1.setGender(GenderType.NO);
+        teszt1.setSzem(SzemSzin.Zöld);
         teszt1.setGender(GenderType.FERFI);
         teszt1.setSzem(SzemSzin.Kék);
         teszt1.setHajszin(Hajszin.Barna);
