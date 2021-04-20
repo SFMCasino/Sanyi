@@ -15,12 +15,12 @@ public class Application {
         boolean benne = false;
         User teszt1 = new User();
         teszt1.setVnev("Teszt");
-        teszt1.setKnev("Elekné");
-        teszt1.setUsername("tesztelek2");
+        teszt1.setKnev("Elek");
+        teszt1.setUsername("tesztelek1");
         teszt1.setEmail("teszt@elek.hu");
         teszt1.setCreditCardNumber("0000 1111 2222 3333");
         teszt1.setPassword("12345");
-        teszt1.setGender(GenderType.NO);
+        teszt1.setGender(GenderType.FERFI);
         teszt1.setSzem(SzemSzin.Kék);
         teszt1.setHajszin(Hajszin.Barna);
         teszt1.setDatum("2001.03.25");
