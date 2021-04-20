@@ -21,7 +21,7 @@ public class Application {
         teszt1.setCreditCardNumber("0000 1111 2222 3333");
         teszt1.setPassword("12345");
         teszt1.setGender(GenderType.NO);
-        teszt1.setSzem(SzemSzin.Fekete);
+        teszt1.setSzem(SzemSzin.Kék);
         teszt1.setHajszin(Hajszin.Barna);
         teszt1.setDatum("2001.03.25");
         teszt1.setNyereseg(1000);
