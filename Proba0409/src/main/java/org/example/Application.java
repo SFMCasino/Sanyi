@@ -23,8 +23,6 @@ public class Application {
         teszt1.setGender(GenderType.NO);
         teszt1.setSzem(SzemSzin.Zöld);
         teszt1.setGender(GenderType.FERFI);
-        teszt1.setSzem(SzemSzin.Kék);
-        teszt1.setHajszin(Hajszin.Barna);
         teszt1.setDatum("2001.03.25");
         teszt1.setNyereseg(1000);
         teszt1.setVeszteseg(100);
